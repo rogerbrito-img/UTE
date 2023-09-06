@@ -1,0 +1,8 @@
+{"displayFieldName":"","fieldAliases":{"OBJECTID":"OBJECTID","Shape_Length":"Shape_Length"},"geometryType":"esriGeometryPolyline","spatialReference":{"wkid":4674,"latestWkid":4674},"fields":[{"name":"OBJECTID","type":"esriFieldTypeOID","alias":"OBJECTID"},{"name":"Shape_Length","type":"esriFieldTypeDouble","alias":"Shape_Length"}],"features":[{"attributes":{"OBJECTID":1,"Shape_Length":7.9201156236440428e-07},"geometry":{"paths":[[
+[-46.98607863999996,-4.7496713299999556],[-46.986078447999944,-4.7496713469999463]]]}}]}
+
+
+
+
+
+"LinhaTransmissao":[{"Long":-46.986079236999956,"Lat":-4.749671277999937},{"Long":-46.986079040999982,"Lat":-4.7496712949999278},{"Long":-46.986078823999947,"Lat":-4.7496713139999542},{"Long":-46.98607863999996,"Lat":-4.7496713299999556},{"Long":-46.986078447999944,"Lat":-4.7496713469999463}]

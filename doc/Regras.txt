@@ -1,0 +1,23 @@
+Este documento foi criado com o intuito de catalogar todas as regras para o validor UFV.
+
+Regras Gerais:
+	1- Verifica se as coordenadas dos poligonos formam uma geometria topologicamente consistente.
+	2- Verificar se está em território brasileiro.
+
+UFV:
+	1- Verificar se existe sobreposição entre os campos de coordenadas de referência do parque com polígonos de parques aprovados e/ou em análise. 
+	2- Verificar se ocorre sobreposição maior que 50 cm entre o polígono do parque enviado com os polígonos de parques aprovados
+	3- Verificar se existe sobreposição entre o polígono do parque enviado com LT do EOL e UFV, usando buffer do parque de 60 metros
+	4- Verificar se existe sobreposição entre os campos de coordenadas de referência do parque e as coordenadas de referência de parques aprovados. 
+	
+Unidades Geradoras:
+	1- Validação do polígono topologicamente
+	2- Verificar se as coordenadas dos vértices estão dentro do polígono do parque enviado
+
+Subestação:
+	1- Verificar se as coordenadas de entrada estão dentro do polígono do parque informado na aba “UFV”
+
+Linha de transmissão:
+	1- Verificar se a linha de transmissão(json) + 200m esta sobrepondo o poligono de Parque Fotovoltaico Aprovado.
+	2- Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente. / valida_linha_topologicamente()
+	3- Verificar se a linha de tranmissão(json) esta conectada a subestação(json).

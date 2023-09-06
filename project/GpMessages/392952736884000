@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: terça-feira, 5 de setembro de 2023 22:04:04</msg><msg code="0" type="50">Failed to convert: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_LT. Failed to execute. Parameters are not valid.
+ERROR 002852: Output Feature Class: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\UTE_SCGGO_LT exists within geodatabase as C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_LT. A feature class name can only exist once within a geodatabase, including within all feature datasets.
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_P. Failed to execute. Parameters are not valid.
+ERROR 002852: Output Feature Class: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\UTE_SCGGO_P exists within geodatabase as C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_P. A feature class name can only exist once within a geodatabase, including within all feature datasets.
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_PR. Failed to execute. Parameters are not valid.
+ERROR 002852: Output Feature Class: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\UTE_SCGGO_PR exists within geodatabase as C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_PR. A feature class name can only exist once within a geodatabase, including within all feature datasets.
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_SUB. Failed to execute. Parameters are not valid.
+ERROR 002852: Output Feature Class: C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\UTE_SCGGO_SUB exists within geodatabase as C:\Tarefas\ANEEL\OS31\validador-interno-ute\UTE\project\Default.gdb\SCGGO\UTE_SCGGO_SUB. A feature class name can only exist once within a geodatabase, including within all feature datasets.
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="3">Succeeded at terça-feira, 5 de setembro de 2023 22:04:31 (Elapsed Time: 27,25 seconds)</msg></messages>

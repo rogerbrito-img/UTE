@@ -1,0 +1,1157 @@
+01-09-2023 10:38:35 - Campo Vazio: Ceg
+01-09-2023 10:38:35 - Processamento Iniciado.
+01-09-2023 10:38:39 - Iniciado montagem dos objetos.
+01-09-2023 10:38:39 - Criando geometria da Usina Termoelétricas
+01-09-2023 10:38:43 - Finalizado processo de criação da geometria da Usina Termoelétricas
+01-09-2023 10:38:43 - Criando geometria da Linha de Transmissão
+01-09-2023 10:38:45 - Finalizado processo de criação da geometria da Linha de Transmissão
+01-09-2023 10:38:45 - Criando geometria da Subestação
+01-09-2023 10:38:46 - Finalizado processo de criação da geometria da Subestação
+01-09-2023 10:38:46 - Criando geometria do Ponto de Referencia
+01-09-2023 10:38:48 - Finalizado processo de criação da geometria do Ponto de Referencia
+01-09-2023 10:38:48 - Finalizado montagem dos objetos.
+01-09-2023 10:38:48 - Iniciado validacoes.
+01-09-2023 10:38:48 - Iniciado validações da Usina Termoelétricas
+01-09-2023 10:38:48 - Dentro do Territorio Brasileiro? True
+01-09-2023 10:38:48 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+01-09-2023 10:38:53 - Parques sobrepostos menos que 50cm? True
+01-09-2023 10:38:53 - Parques sobrepostos mais que 50cm? True
+01-09-2023 10:38:53 - Nome dos parques sobrepostos: UTE_ROGER
+01-09-2023 10:38:53 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+01-09-2023 10:38:58 - Finalizado validações da Usina Termoelétricas
+01-09-2023 10:38:58 - Iniciado validações da Linha de Transmissão
+01-09-2023 10:38:58 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+01-09-2023 10:39:28 - Verificando a sobreposicao entre linhas de transmissao.
+01-09-2023 10:39:31 - Finalizado validações da Linha de Transmissão
+01-09-2023 10:39:31 - Iniciado validações da Subestação
+01-09-2023 10:39:31 - Subestação dentro do Poligono da Usina Termoelétrica? True
+01-09-2023 10:39:31 - Finalizado validações da Subestação
+01-09-2023 10:39:31 - Iniciado validações do Ponto de Referencia
+01-09-2023 10:39:32 - Dentro do Territorio Brasileiro? False
+01-09-2023 10:39:32 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+01-09-2023 10:39:32 - Finalizado validações do Ponto de Referencia
+01-09-2023 10:39:32 - Finalizado validacoes
+01-09-2023 10:41:17 - Gerando relatorio de validacao do empreendimento: TESTE RN 161 UTE
+01-09-2023 10:41:17 - Historico desativado
+01-09-2023 10:41:22 - ArcGIS Enterprise is currently in read-only mode. Contact your administrator for further assistance.
+(Error Code: 405)
+01-09-2023 10:41:22 - local variable 'mapFrame' referenced before assignment
+01-09-2023 11:36:51 - Campo Vazio: Ceg
+01-09-2023 11:36:51 - Processamento Iniciado.
+01-09-2023 11:37:00 - Iniciado montagem dos objetos.
+01-09-2023 11:37:00 - Criando geometria da Usina Termoelétricas
+01-09-2023 11:37:02 - ERROR 000258: Output C:\Users\roger.brito\AppData\Local\Temp\scratch\shapefiles\PARQUE_TERMOELETRICAS_0.shp already exists
+Failed to execute (CreateFeatureclass).
+
+01-09-2023 11:39:29 - Campo Vazio: Ceg
+01-09-2023 11:39:29 - Processamento Iniciado.
+01-09-2023 11:45:00 - Iniciado montagem dos objetos.
+01-09-2023 11:45:00 - Criando geometria da Usina Termoelétricas
+01-09-2023 11:45:02 - Finalizado processo de criação da geometria da Usina Termoelétricas
+01-09-2023 11:45:02 - Criando geometria da Linha de Transmissão
+01-09-2023 11:45:04 - Finalizado processo de criação da geometria da Linha de Transmissão
+01-09-2023 11:45:04 - Criando geometria da Subestação
+01-09-2023 11:45:05 - Finalizado processo de criação da geometria da Subestação
+01-09-2023 11:45:05 - Criando geometria do Ponto de Referencia
+01-09-2023 11:45:07 - Finalizado processo de criação da geometria do Ponto de Referencia
+01-09-2023 11:45:07 - Finalizado montagem dos objetos.
+01-09-2023 11:45:07 - Iniciado validacoes.
+01-09-2023 11:45:07 - Iniciado validações da Usina Termoelétricas
+01-09-2023 11:45:07 - Dentro do Territorio Brasileiro? True
+01-09-2023 11:45:07 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+01-09-2023 11:45:51 - Parques sobrepostos menos que 50cm? True
+01-09-2023 11:45:51 - Parques sobrepostos mais que 50cm? True
+01-09-2023 11:45:51 - Nome dos parques sobrepostos: UTE_ROGER
+01-09-2023 11:45:51 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+01-09-2023 11:45:55 - Finalizado validações da Usina Termoelétricas
+01-09-2023 11:45:55 - Iniciado validações da Linha de Transmissão
+01-09-2023 11:45:55 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+01-09-2023 11:46:24 - Verificando a sobreposicao entre linhas de transmissao.
+01-09-2023 11:46:27 - Finalizado validações da Linha de Transmissão
+01-09-2023 11:46:27 - Iniciado validações da Subestação
+01-09-2023 11:46:27 - Subestação dentro do Poligono da Usina Termoelétrica? True
+01-09-2023 11:46:28 - Dentro do Territorio Brasileiro? True
+01-09-2023 11:46:28 - Finalizado validações da Subestação
+01-09-2023 16:35:17 - Campo Vazio: Ceg
+01-09-2023 16:35:17 - Processamento Iniciado.
+01-09-2023 16:35:21 - Iniciado montagem dos objetos.
+01-09-2023 16:35:21 - Criando geometria da Usina Termoelétricas
+01-09-2023 16:35:24 - Finalizado processo de criação da geometria da Usina Termoelétricas
+01-09-2023 16:35:24 - Criando geometria da Linha de Transmissão
+01-09-2023 16:35:25 - Finalizado processo de criação da geometria da Linha de Transmissão
+01-09-2023 16:35:25 - Criando geometria da Subestação
+01-09-2023 16:35:27 - Finalizado processo de criação da geometria da Subestação
+01-09-2023 16:35:27 - Criando geometria do Ponto de Referencia
+01-09-2023 16:35:29 - Finalizado processo de criação da geometria do Ponto de Referencia
+01-09-2023 16:35:29 - Finalizado montagem dos objetos.
+01-09-2023 16:35:29 - Iniciado validacoes.
+01-09-2023 16:35:29 - Iniciado validações da Usina Termoelétricas
+01-09-2023 16:35:29 - Dentro do Territorio Brasileiro? True
+01-09-2023 16:35:29 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+01-09-2023 16:35:37 - Parques sobrepostos menos que 50cm? True
+01-09-2023 16:35:37 - Parques sobrepostos mais que 50cm? True
+01-09-2023 16:35:37 - Nome dos parques sobrepostos: UTE_ROGER
+01-09-2023 16:35:37 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+01-09-2023 16:35:42 - Finalizado validações da Usina Termoelétricas
+01-09-2023 16:35:42 - Iniciado validações da Linha de Transmissão
+01-09-2023 16:35:42 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+01-09-2023 16:36:12 - Verificando a sobreposicao entre linhas de transmissao.
+01-09-2023 16:36:16 - Finalizado validações da Linha de Transmissão
+01-09-2023 16:36:16 - Iniciado validações da Subestação
+01-09-2023 16:36:16 - Subestação dentro do Poligono da Usina Termoelétrica? True
+01-09-2023 16:36:16 - Dentro do Territorio Brasileiro? True
+01-09-2023 16:36:16 - Finalizado validações da Subestação
+01-09-2023 16:37:56 - Iniciado validações do Ponto de Referencia
+01-09-2023 16:37:57 - Dentro do Territorio Brasileiro? False
+01-09-2023 16:37:57 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+01-09-2023 16:37:57 - Finalizado validações do Ponto de Referencia
+01-09-2023 16:37:57 - Finalizado validacoes
+01-09-2023 16:38:00 - Gerando relatorio de validacao do empreendimento: TESTE RN 161 UTE
+01-09-2023 16:38:00 - Historico desativado
+01-09-2023 16:38:04 - ArcGIS Enterprise is currently in read-only mode. Contact your administrator for further assistance.
+(Error Code: 405)
+01-09-2023 16:38:04 - local variable 'mapFrame' referenced before assignment
+04-09-2023 14:49:20 - Campo Vazio: Ceg
+04-09-2023 14:49:20 - Processamento Iniciado.
+04-09-2023 14:50:12 - Iniciado montagem dos objetos.
+04-09-2023 14:50:12 - __init__() missing 1 required positional argument: 'index'
+04-09-2023 14:53:03 - Campo Vazio: Ceg
+04-09-2023 14:53:03 - Processamento Iniciado.
+04-09-2023 14:53:08 - Iniciado montagem dos objetos.
+04-09-2023 14:53:08 - __init__() missing 1 required positional argument: 'index'
+04-09-2023 14:54:32 - Campo Vazio: Ceg
+04-09-2023 14:54:32 - Processamento Iniciado.
+04-09-2023 14:54:34 - Iniciado montagem dos objetos.
+04-09-2023 14:54:34 - __init__() missing 1 required positional argument: 'index'
+04-09-2023 14:54:59 - Campo Vazio: Ceg
+04-09-2023 14:54:59 - Processamento Iniciado.
+04-09-2023 14:56:04 - Campo Vazio: Ceg
+04-09-2023 14:56:58 - Processamento Iniciado.
+04-09-2023 14:57:40 - Campo Vazio: Ceg
+04-09-2023 14:57:40 - Processamento Iniciado.
+04-09-2023 14:59:00 - Iniciado montagem dos objetos.
+04-09-2023 14:59:21 - Campo Vazio: Ceg
+04-09-2023 14:59:21 - Processamento Iniciado.
+04-09-2023 14:59:38 - Iniciado montagem dos objetos.
+04-09-2023 15:06:11 - Campo Vazio: Ceg
+04-09-2023 15:06:11 - Processamento Iniciado.
+04-09-2023 15:06:11 - Iniciando Append do Complexo
+04-09-2023 15:06:12 - Temp
+04-09-2023 15:06:12 - Finalizando o Append do Complexo
+04-09-2023 15:06:12 - ID de Complexo: 6
+04-09-2023 15:11:15 - Iniciado montagem dos objetos.
+04-09-2023 15:11:15 - __init__() missing 1 required positional argument: 'index'
+04-09-2023 15:14:04 - Campo Vazio: Ceg
+04-09-2023 15:14:04 - Processamento Iniciado.
+04-09-2023 15:14:04 - Iniciando Append do Complexo
+04-09-2023 15:14:04 - Temp
+04-09-2023 15:14:04 - Finalizando o Append do Complexo
+04-09-2023 15:14:04 - ID de Complexo: 7
+04-09-2023 15:14:07 - Iniciado montagem dos objetos.
+04-09-2023 15:14:07 - __init__() missing 1 required positional argument: 'index'
+04-09-2023 15:20:56 - Campo Vazio: Ceg
+04-09-2023 15:20:56 - Processamento Iniciado.
+04-09-2023 15:20:56 - Iniciando Append do Complexo
+04-09-2023 15:20:56 - Temp
+04-09-2023 15:20:57 - Finalizando o Append do Complexo
+04-09-2023 15:20:57 - ID de Complexo: 8
+04-09-2023 15:21:54 - Iniciado montagem dos objetos.
+04-09-2023 15:21:54 - Criando geometria da Usina Termoelétricas
+04-09-2023 15:22:46 - ERROR 000258: Output C:\Users\roger.brito\AppData\Local\Temp\scratch\shapefiles\PARQUE_TERMOELETRICAS_0.shp already exists
+Failed to execute (CreateFeatureclass).
+
+04-09-2023 15:24:52 - Campo Vazio: Ceg
+04-09-2023 15:24:52 - Processamento Iniciado.
+04-09-2023 15:24:52 - Iniciando Append do Complexo
+04-09-2023 15:24:53 - Temp
+04-09-2023 15:24:53 - Finalizando o Append do Complexo
+04-09-2023 15:24:53 - ID de Complexo: 9
+04-09-2023 15:24:56 - Iniciado montagem dos objetos.
+04-09-2023 15:24:56 - Criando geometria da Usina Termoelétricas
+04-09-2023 15:24:59 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 15:24:59 - Criando geometria da Linha de Transmissão
+04-09-2023 15:25:01 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 15:25:01 - Criando geometria da Subestação
+04-09-2023 15:25:03 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 15:25:03 - Criando geometria do Ponto de Referencia
+04-09-2023 15:25:05 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 15:25:05 - Finalizado montagem dos objetos.
+04-09-2023 15:25:05 - Iniciado validacoes.
+04-09-2023 15:25:05 - Iniciado validações da Usina Termoelétricas
+04-09-2023 15:25:06 - Dentro do Territorio Brasileiro? True
+04-09-2023 15:25:06 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 15:25:12 - Parques sobrepostos menos que 50cm? True
+04-09-2023 15:25:12 - Parques sobrepostos mais que 50cm? True
+04-09-2023 15:25:12 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 15:25:12 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 15:25:14 - 'UFV_LT_UFV_BASE'
+04-09-2023 15:25:14 - Nao foi possivel validar se alguma linha de transmissao esta sobreponto o Parque Fotovoltaico
+04-09-2023 15:25:15 - Finalizado validações da Usina Termoelétricas
+04-09-2023 15:25:15 - Iniciado validações da Linha de Transmissão
+04-09-2023 15:25:15 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 15:26:55 - Campo Vazio: Ceg
+04-09-2023 15:26:55 - Processamento Iniciado.
+04-09-2023 15:26:55 - Iniciando Append do Complexo
+04-09-2023 15:26:55 - Temp
+04-09-2023 15:26:56 - Finalizando o Append do Complexo
+04-09-2023 15:26:56 - ID de Complexo: 10
+04-09-2023 15:28:42 - Iniciado montagem dos objetos.
+04-09-2023 15:28:42 - Criando geometria da Usina Termoelétricas
+04-09-2023 15:28:44 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 15:28:44 - Criando geometria da Linha de Transmissão
+04-09-2023 15:28:46 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 15:28:46 - Criando geometria da Subestação
+04-09-2023 15:28:48 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 15:28:48 - Criando geometria do Ponto de Referencia
+04-09-2023 15:28:50 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 15:28:50 - Finalizado montagem dos objetos.
+04-09-2023 15:28:50 - Iniciado validacoes.
+04-09-2023 15:28:50 - Iniciado validações da Usina Termoelétricas
+04-09-2023 15:28:51 - Dentro do Territorio Brasileiro? True
+04-09-2023 15:28:51 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 15:29:35 - Parques sobrepostos menos que 50cm? True
+04-09-2023 15:29:35 - Parques sobrepostos mais que 50cm? True
+04-09-2023 15:29:35 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 15:29:35 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 15:29:40 - Finalizado validações da Usina Termoelétricas
+04-09-2023 15:29:40 - Iniciado validações da Linha de Transmissão
+04-09-2023 15:29:40 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 15:30:20 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 15:30:25 - Finalizado validações da Linha de Transmissão
+04-09-2023 15:30:25 - Iniciado validações da Subestação
+04-09-2023 15:30:25 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 15:30:25 - Dentro do Territorio Brasileiro? True
+04-09-2023 15:30:25 - Finalizado validações da Subestação
+04-09-2023 15:32:07 - Iniciado validações do Ponto de Referencia
+04-09-2023 15:32:07 - Dentro do Territorio Brasileiro? False
+04-09-2023 15:32:07 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 15:32:07 - Finalizado validações do Ponto de Referencia
+04-09-2023 15:32:07 - Finalizado validacoes
+04-09-2023 15:32:07 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 15:32:07 - Iniciando Append do Parque
+04-09-2023 15:32:08 - Não foi possivel realizar o Append do Parque
+04-09-2023 15:32:08 - The coordinates or measures are out of bounds.
+04-09-2023 15:32:08 - Iniciando Append da Linha de Transmissão
+04-09-2023 15:32:08 - Não foi possivel Realizar o Append da Linha de Transmissão
+04-09-2023 15:32:08 - The coordinates or measures are out of bounds.
+04-09-2023 15:32:08 - Iniciando Append da Subestação
+04-09-2023 15:32:09 - Não foi possivel realizar o Append da Subestação
+04-09-2023 15:32:09 - The coordinates or measures are out of bounds.
+04-09-2023 15:32:09 - Iniciando Append do Ponto de Referencia
+04-09-2023 15:32:09 - Não foi possivel realizar o Append do Ponto de Referencia
+04-09-2023 15:32:09 - The coordinates or measures are out of bounds.
+04-09-2023 15:32:09 - Iniciando Append das Validações
+04-09-2023 15:32:10 - Finalizando o Append das Validações
+04-09-2023 15:34:39 - Campo Vazio: Ceg
+04-09-2023 15:34:39 - Processamento Iniciado.
+04-09-2023 15:34:39 - Iniciando Append do Complexo
+04-09-2023 15:34:39 - Temp
+04-09-2023 15:34:40 - Finalizando o Append do Complexo
+04-09-2023 15:34:40 - ID de Complexo: 11
+04-09-2023 15:34:43 - Iniciado montagem dos objetos.
+04-09-2023 15:34:43 - Criando geometria da Usina Termoelétricas
+04-09-2023 15:34:46 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 15:34:46 - Criando geometria da Linha de Transmissão
+04-09-2023 15:34:48 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 15:34:48 - Criando geometria da Subestação
+04-09-2023 15:34:50 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 15:34:50 - Criando geometria do Ponto de Referencia
+04-09-2023 15:34:52 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 15:34:52 - Finalizado montagem dos objetos.
+04-09-2023 15:34:52 - Iniciado validacoes.
+04-09-2023 15:34:52 - Iniciado validações da Usina Termoelétricas
+04-09-2023 15:34:53 - Dentro do Territorio Brasileiro? True
+04-09-2023 15:34:53 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 15:34:55 - Parques sobrepostos menos que 50cm? True
+04-09-2023 15:34:55 - Parques sobrepostos mais que 50cm? True
+04-09-2023 15:34:55 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 15:34:55 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 15:35:01 - Finalizado validações da Usina Termoelétricas
+04-09-2023 15:35:01 - Iniciado validações da Linha de Transmissão
+04-09-2023 15:35:01 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 15:35:39 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 15:35:43 - Finalizado validações da Linha de Transmissão
+04-09-2023 15:35:43 - Iniciado validações da Subestação
+04-09-2023 15:35:43 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 15:35:44 - Dentro do Territorio Brasileiro? True
+04-09-2023 15:35:44 - Finalizado validações da Subestação
+04-09-2023 15:35:44 - Iniciado validações do Ponto de Referencia
+04-09-2023 15:35:45 - Dentro do Territorio Brasileiro? False
+04-09-2023 15:35:45 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 15:35:45 - Finalizado validações do Ponto de Referencia
+04-09-2023 15:35:45 - Finalizado validacoes
+04-09-2023 15:35:45 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 15:37:11 - Iniciando Append do Parque
+04-09-2023 16:10:18 - Campo Vazio: Ceg
+04-09-2023 16:10:18 - Processamento Iniciado.
+04-09-2023 16:10:18 - Iniciando Append do Complexo
+04-09-2023 16:10:18 - Temp
+04-09-2023 16:10:19 - Finalizando o Append do Complexo
+04-09-2023 16:10:19 - ID de Complexo: 12
+04-09-2023 16:12:57 - Iniciado montagem dos objetos.
+04-09-2023 16:12:57 - Criando geometria da Usina Termoelétricas
+04-09-2023 16:13:01 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 16:13:01 - Criando geometria da Linha de Transmissão
+04-09-2023 16:13:03 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 16:13:03 - Criando geometria da Subestação
+04-09-2023 16:13:06 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 16:13:06 - Criando geometria do Ponto de Referencia
+04-09-2023 16:13:08 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 16:13:08 - Finalizado montagem dos objetos.
+04-09-2023 16:13:08 - Iniciado validacoes.
+04-09-2023 16:13:08 - Iniciado validações da Usina Termoelétricas
+04-09-2023 16:13:09 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:13:09 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 16:13:11 - Parques sobrepostos menos que 50cm? True
+04-09-2023 16:13:11 - Parques sobrepostos mais que 50cm? True
+04-09-2023 16:13:11 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 16:13:11 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 16:13:18 - Finalizado validações da Usina Termoelétricas
+04-09-2023 16:13:18 - Iniciado validações da Linha de Transmissão
+04-09-2023 16:13:18 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 16:14:01 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 16:14:06 - Finalizado validações da Linha de Transmissão
+04-09-2023 16:14:06 - Iniciado validações da Subestação
+04-09-2023 16:14:06 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 16:14:06 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:14:06 - Finalizado validações da Subestação
+04-09-2023 16:14:06 - Iniciado validações do Ponto de Referencia
+04-09-2023 16:14:07 - Dentro do Territorio Brasileiro? False
+04-09-2023 16:14:07 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 16:14:07 - Finalizado validações do Ponto de Referencia
+04-09-2023 16:14:07 - Finalizado validacoes
+04-09-2023 16:14:07 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 16:16:18 - Iniciando Append do Parque
+04-09-2023 16:22:30 - Campo Vazio: Ceg
+04-09-2023 16:22:30 - Processamento Iniciado.
+04-09-2023 16:22:30 - Iniciando Append do Complexo
+04-09-2023 16:22:30 - Temp
+04-09-2023 16:22:31 - Finalizando o Append do Complexo
+04-09-2023 16:22:31 - ID de Complexo: 13
+04-09-2023 16:22:34 - Iniciado montagem dos objetos.
+04-09-2023 16:22:34 - Criando geometria da Usina Termoelétricas
+04-09-2023 16:22:37 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 16:22:37 - Criando geometria da Linha de Transmissão
+04-09-2023 16:22:40 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 16:22:40 - Criando geometria da Subestação
+04-09-2023 16:22:42 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 16:22:42 - Criando geometria do Ponto de Referencia
+04-09-2023 16:22:45 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 16:22:45 - Finalizado montagem dos objetos.
+04-09-2023 16:22:45 - Iniciado validacoes.
+04-09-2023 16:22:45 - Iniciado validações da Usina Termoelétricas
+04-09-2023 16:22:45 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:22:45 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 16:22:48 - Parques sobrepostos menos que 50cm? True
+04-09-2023 16:22:48 - Parques sobrepostos mais que 50cm? True
+04-09-2023 16:22:48 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 16:22:48 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 16:22:54 - Finalizado validações da Usina Termoelétricas
+04-09-2023 16:22:54 - Iniciado validações da Linha de Transmissão
+04-09-2023 16:22:54 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 16:23:38 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 16:23:42 - Finalizado validações da Linha de Transmissão
+04-09-2023 16:23:42 - Iniciado validações da Subestação
+04-09-2023 16:23:42 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 16:23:43 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:23:43 - Finalizado validações da Subestação
+04-09-2023 16:23:43 - Iniciado validações do Ponto de Referencia
+04-09-2023 16:23:43 - Dentro do Territorio Brasileiro? False
+04-09-2023 16:23:43 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 16:23:43 - Finalizado validações do Ponto de Referencia
+04-09-2023 16:23:43 - Finalizado validacoes
+04-09-2023 16:23:43 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 16:33:48 - Campo Vazio: Ceg
+04-09-2023 16:33:48 - Processamento Iniciado.
+04-09-2023 16:33:48 - Iniciando Append do Complexo
+04-09-2023 16:33:48 - Temp
+04-09-2023 16:33:48 - Finalizando o Append do Complexo
+04-09-2023 16:33:48 - ID de Complexo: 14
+04-09-2023 16:39:01 - Processamento Iniciado.
+04-09-2023 16:39:01 - Iniciando Append do Complexo
+04-09-2023 16:39:01 - Temp
+04-09-2023 16:39:02 - Finalizando o Append do Complexo
+04-09-2023 16:39:02 - ID de Complexo: 15
+04-09-2023 16:41:16 - Iniciado montagem dos objetos.
+04-09-2023 16:41:16 - Criando geometria da Usina Termoelétricas
+04-09-2023 16:41:19 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 16:41:19 - Criando geometria da Linha de Transmissão
+04-09-2023 16:41:20 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 16:41:20 - Criando geometria da Subestação
+04-09-2023 16:41:22 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 16:41:22 - Criando geometria do Ponto de Referencia
+04-09-2023 16:41:23 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 16:41:24 - Finalizado montagem dos objetos.
+04-09-2023 16:41:24 - Iniciado validacoes.
+04-09-2023 16:41:24 - Iniciado validações da Usina Termoelétricas
+04-09-2023 16:41:24 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:41:24 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 16:41:26 - Parques sobrepostos menos que 50cm? True
+04-09-2023 16:41:26 - Parques sobrepostos mais que 50cm? True
+04-09-2023 16:41:26 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 16:41:26 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 16:41:30 - Finalizado validações da Usina Termoelétricas
+04-09-2023 16:41:30 - Iniciado validações da Linha de Transmissão
+04-09-2023 16:41:30 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 16:42:04 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 16:42:08 - Finalizado validações da Linha de Transmissão
+04-09-2023 16:42:08 - Iniciado validações da Subestação
+04-09-2023 16:42:08 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 16:42:08 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:42:08 - Finalizado validações da Subestação
+04-09-2023 16:42:08 - Iniciado validações do Ponto de Referencia
+04-09-2023 16:42:09 - Dentro do Territorio Brasileiro? False
+04-09-2023 16:42:09 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 16:42:09 - Finalizado validações do Ponto de Referencia
+04-09-2023 16:42:09 - Finalizado validacoes
+04-09-2023 16:42:09 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 16:42:23 - Iniciando Append do Parque
+04-09-2023 16:48:20 - Processamento Iniciado.
+04-09-2023 16:48:20 - Iniciando Append do Complexo
+04-09-2023 16:48:20 - Temp
+04-09-2023 16:48:20 - Finalizando o Append do Complexo
+04-09-2023 16:48:20 - ID de Complexo: 16
+04-09-2023 16:49:13 - Iniciado montagem dos objetos.
+04-09-2023 16:49:13 - Criando geometria da Usina Termoelétricas
+04-09-2023 16:49:15 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 16:49:15 - Criando geometria da Linha de Transmissão
+04-09-2023 16:49:17 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 16:49:17 - Criando geometria da Subestação
+04-09-2023 16:49:19 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 16:49:19 - Criando geometria do Ponto de Referencia
+04-09-2023 16:49:20 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 16:49:20 - Finalizado montagem dos objetos.
+04-09-2023 16:49:20 - Iniciado validacoes.
+04-09-2023 16:49:20 - Iniciado validações da Usina Termoelétricas
+04-09-2023 16:49:21 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:49:21 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 16:49:22 - Parques sobrepostos menos que 50cm? True
+04-09-2023 16:49:22 - Parques sobrepostos mais que 50cm? True
+04-09-2023 16:49:22 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 16:49:23 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 16:49:27 - Finalizado validações da Usina Termoelétricas
+04-09-2023 16:49:27 - Iniciado validações da Linha de Transmissão
+04-09-2023 16:49:27 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 16:49:57 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 16:50:00 - Finalizado validações da Linha de Transmissão
+04-09-2023 16:50:00 - Iniciado validações da Subestação
+04-09-2023 16:50:00 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 16:50:01 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:50:01 - Finalizado validações da Subestação
+04-09-2023 16:50:01 - Iniciado validações do Ponto de Referencia
+04-09-2023 16:50:01 - Dentro do Territorio Brasileiro? False
+04-09-2023 16:50:01 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 16:50:01 - Finalizado validações do Ponto de Referencia
+04-09-2023 16:50:01 - Finalizado validacoes
+04-09-2023 16:50:01 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 16:50:22 - Iniciando Append do Parque
+04-09-2023 16:51:54 - Processamento Iniciado.
+04-09-2023 16:51:54 - Iniciando Append do Complexo
+04-09-2023 16:51:54 - Temp
+04-09-2023 16:51:54 - Finalizando o Append do Complexo
+04-09-2023 16:51:54 - ID de Complexo: 17
+04-09-2023 16:52:11 - Iniciado montagem dos objetos.
+04-09-2023 16:52:11 - Criando geometria da Usina Termoelétricas
+04-09-2023 16:52:14 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 16:52:14 - Criando geometria da Linha de Transmissão
+04-09-2023 16:52:15 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 16:52:15 - Criando geometria da Subestação
+04-09-2023 16:52:17 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 16:52:17 - Criando geometria do Ponto de Referencia
+04-09-2023 16:52:18 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 16:52:18 - Finalizado montagem dos objetos.
+04-09-2023 16:52:18 - Iniciado validacoes.
+04-09-2023 16:52:18 - Iniciado validações da Usina Termoelétricas
+04-09-2023 16:52:19 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:52:19 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 16:52:21 - Parques sobrepostos menos que 50cm? True
+04-09-2023 16:52:21 - Parques sobrepostos mais que 50cm? True
+04-09-2023 16:52:21 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 16:52:21 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 16:52:25 - Finalizado validações da Usina Termoelétricas
+04-09-2023 16:52:25 - Iniciado validações da Linha de Transmissão
+04-09-2023 16:52:25 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 16:52:55 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 16:52:58 - Finalizado validações da Linha de Transmissão
+04-09-2023 16:52:58 - Iniciado validações da Subestação
+04-09-2023 16:52:58 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 16:52:59 - Dentro do Territorio Brasileiro? True
+04-09-2023 16:52:59 - Finalizado validações da Subestação
+04-09-2023 16:52:59 - Iniciado validações do Ponto de Referencia
+04-09-2023 16:52:59 - Dentro do Territorio Brasileiro? False
+04-09-2023 16:52:59 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 16:52:59 - Finalizado validações do Ponto de Referencia
+04-09-2023 16:52:59 - Finalizado validacoes
+04-09-2023 16:52:59 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 16:54:29 - Iniciando Append da Linha de Transmissão
+04-09-2023 21:56:14 - Processamento Iniciado.
+04-09-2023 21:56:14 - Iniciando Append do Complexo
+04-09-2023 21:56:14 - Temp
+04-09-2023 21:56:15 - Finalizando o Append do Complexo
+04-09-2023 21:56:15 - ID de Complexo: 18
+04-09-2023 21:56:25 - Iniciado montagem dos objetos.
+04-09-2023 21:56:25 - Criando geometria da Usina Termoelétricas
+04-09-2023 21:56:29 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 21:56:29 - Criando geometria da Linha de Transmissão
+04-09-2023 21:56:31 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 21:56:31 - Criando geometria da Subestação
+04-09-2023 21:56:33 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 21:56:33 - Criando geometria do Ponto de Referencia
+04-09-2023 21:56:35 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 21:56:35 - Finalizado montagem dos objetos.
+04-09-2023 21:56:35 - Iniciado validacoes.
+04-09-2023 21:56:35 - Iniciado validações da Usina Termoelétricas
+04-09-2023 21:56:35 - Dentro do Territorio Brasileiro? True
+04-09-2023 21:56:35 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 21:56:37 - Parques sobrepostos menos que 50cm? True
+04-09-2023 21:56:37 - Parques sobrepostos mais que 50cm? True
+04-09-2023 21:56:37 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 21:56:37 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 21:56:43 - Finalizado validações da Usina Termoelétricas
+04-09-2023 21:56:43 - Iniciado validações da Linha de Transmissão
+04-09-2023 21:56:43 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 21:57:18 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 21:57:22 - Finalizado validações da Linha de Transmissão
+04-09-2023 21:57:22 - Iniciado validações da Subestação
+04-09-2023 21:57:22 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 21:57:22 - Dentro do Territorio Brasileiro? True
+04-09-2023 21:57:22 - Finalizado validações da Subestação
+04-09-2023 21:57:22 - Iniciado validações do Ponto de Referencia
+04-09-2023 21:57:23 - Dentro do Territorio Brasileiro? False
+04-09-2023 21:57:23 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 21:57:23 - Finalizado validações do Ponto de Referencia
+04-09-2023 21:57:23 - Finalizado validacoes
+04-09-2023 21:57:23 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 21:57:23 - Iniciando Append do Parque
+04-09-2023 22:03:14 - Processamento Iniciado.
+04-09-2023 22:03:14 - Iniciando Append do Complexo
+04-09-2023 22:03:14 - Temp
+04-09-2023 22:03:15 - Finalizando o Append do Complexo
+04-09-2023 22:03:15 - ID de Complexo: 19
+04-09-2023 22:03:27 - Iniciado montagem dos objetos.
+04-09-2023 22:03:27 - Criando geometria da Usina Termoelétricas
+04-09-2023 22:03:31 - Finalizado processo de criação da geometria da Usina Termoelétricas
+04-09-2023 22:03:31 - Criando geometria da Linha de Transmissão
+04-09-2023 22:03:33 - Finalizado processo de criação da geometria da Linha de Transmissão
+04-09-2023 22:03:33 - Criando geometria da Subestação
+04-09-2023 22:03:35 - Finalizado processo de criação da geometria da Subestação
+04-09-2023 22:03:35 - Criando geometria do Ponto de Referencia
+04-09-2023 22:03:37 - Finalizado processo de criação da geometria do Ponto de Referencia
+04-09-2023 22:03:37 - Finalizado montagem dos objetos.
+04-09-2023 22:03:37 - Iniciado validacoes.
+04-09-2023 22:03:37 - Iniciado validações da Usina Termoelétricas
+04-09-2023 22:03:38 - Dentro do Territorio Brasileiro? True
+04-09-2023 22:03:38 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+04-09-2023 22:03:40 - Parques sobrepostos menos que 50cm? True
+04-09-2023 22:03:40 - Parques sobrepostos mais que 50cm? True
+04-09-2023 22:03:40 - Nome dos parques sobrepostos: UTE_ROGER
+04-09-2023 22:03:40 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+04-09-2023 22:03:46 - Finalizado validações da Usina Termoelétricas
+04-09-2023 22:03:46 - Iniciado validações da Linha de Transmissão
+04-09-2023 22:03:46 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+04-09-2023 22:04:26 - Verificando a sobreposicao entre linhas de transmissao.
+04-09-2023 22:04:31 - Finalizado validações da Linha de Transmissão
+04-09-2023 22:04:31 - Iniciado validações da Subestação
+04-09-2023 22:04:31 - Subestação dentro do Poligono da Usina Termoelétrica? True
+04-09-2023 22:04:31 - Dentro do Territorio Brasileiro? True
+04-09-2023 22:04:31 - Finalizado validações da Subestação
+04-09-2023 22:04:31 - Iniciado validações do Ponto de Referencia
+04-09-2023 22:04:32 - Dentro do Territorio Brasileiro? False
+04-09-2023 22:04:32 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+04-09-2023 22:04:32 - Finalizado validações do Ponto de Referencia
+04-09-2023 22:04:32 - Finalizado validacoes
+04-09-2023 22:04:32 - Append do empreendimento: TESTE RN 161 UTE
+04-09-2023 22:04:32 - Iniciando Append do Parque
+04-09-2023 22:04:49 - Finalizando o Append do Parque
+04-09-2023 22:06:57 - Iniciando Append da Linha de Transmissão
+05-09-2023 14:15:16 - Processamento Iniciado.
+05-09-2023 14:15:16 - Iniciando Append do Complexo
+05-09-2023 14:15:17 - Temp
+05-09-2023 14:15:17 - Finalizando o Append do Complexo
+05-09-2023 14:15:17 - ID de Complexo: 20
+05-09-2023 14:15:27 - Iniciado montagem dos objetos.
+05-09-2023 14:15:27 - Criando geometria da Usina Termoelétricas
+05-09-2023 14:15:30 - ERROR 000258: Output C:\Users\roger.brito\AppData\Local\Temp\scratch\shapefiles\PARQUE_TERMOELETRICAS_0.shp already exists
+Failed to execute (CreateFeatureclass).
+
+05-09-2023 14:16:41 - Processamento Iniciado.
+05-09-2023 14:16:41 - Iniciando Append do Complexo
+05-09-2023 14:16:41 - Temp
+05-09-2023 14:16:41 - Finalizando o Append do Complexo
+05-09-2023 14:16:41 - ID de Complexo: 21
+05-09-2023 14:16:47 - Iniciado montagem dos objetos.
+05-09-2023 14:16:47 - Criando geometria da Usina Termoelétricas
+05-09-2023 14:16:50 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 14:16:50 - Criando geometria da Linha de Transmissão
+05-09-2023 14:16:52 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 14:16:52 - Criando geometria da Subestação
+05-09-2023 14:16:53 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 14:16:53 - Criando geometria do Ponto de Referencia
+05-09-2023 14:16:55 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 14:16:55 - Finalizado montagem dos objetos.
+05-09-2023 14:16:55 - Iniciado validacoes.
+05-09-2023 14:16:55 - Iniciado validações da Usina Termoelétricas
+05-09-2023 14:16:56 - Dentro do Territorio Brasileiro? True
+05-09-2023 14:16:56 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 14:16:58 - Parques sobrepostos menos que 50cm? True
+05-09-2023 14:16:58 - Parques sobrepostos mais que 50cm? True
+05-09-2023 14:16:58 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 14:16:58 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 14:17:03 - Finalizado validações da Usina Termoelétricas
+05-09-2023 14:17:03 - Iniciado validações da Linha de Transmissão
+05-09-2023 14:17:03 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 14:17:37 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 14:17:41 - Finalizado validações da Linha de Transmissão
+05-09-2023 14:17:41 - Iniciado validações da Subestação
+05-09-2023 14:17:41 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 14:17:41 - Dentro do Territorio Brasileiro? True
+05-09-2023 14:17:41 - Finalizado validações da Subestação
+05-09-2023 14:17:41 - Iniciado validações do Ponto de Referencia
+05-09-2023 14:17:42 - Dentro do Territorio Brasileiro? False
+05-09-2023 14:17:42 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 14:17:42 - Finalizado validações do Ponto de Referencia
+05-09-2023 14:17:42 - Finalizado validacoes
+05-09-2023 14:17:42 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 14:17:42 - Iniciando Append do Parque
+05-09-2023 14:17:42 - Não foi possivel realizar o Append do Parque
+05-09-2023 14:17:42 - too many values to unpack (expected 2)
+05-09-2023 14:19:02 - Processamento Iniciado.
+05-09-2023 14:19:02 - Iniciando Append do Complexo
+05-09-2023 14:19:02 - Temp
+05-09-2023 14:19:03 - Finalizando o Append do Complexo
+05-09-2023 14:19:03 - ID de Complexo: 22
+05-09-2023 14:19:05 - Iniciado montagem dos objetos.
+05-09-2023 14:19:05 - Criando geometria da Usina Termoelétricas
+05-09-2023 14:19:08 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 14:19:08 - Criando geometria da Linha de Transmissão
+05-09-2023 14:19:10 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 14:19:10 - Criando geometria da Subestação
+05-09-2023 14:19:11 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 14:19:11 - Criando geometria do Ponto de Referencia
+05-09-2023 14:19:13 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 14:19:13 - Finalizado montagem dos objetos.
+05-09-2023 14:19:13 - Iniciado validacoes.
+05-09-2023 14:19:13 - Iniciado validações da Usina Termoelétricas
+05-09-2023 14:19:14 - Dentro do Territorio Brasileiro? True
+05-09-2023 14:19:14 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 14:19:15 - Parques sobrepostos menos que 50cm? True
+05-09-2023 14:19:15 - Parques sobrepostos mais que 50cm? True
+05-09-2023 14:19:15 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 14:19:16 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 14:19:20 - Finalizado validações da Usina Termoelétricas
+05-09-2023 14:19:20 - Iniciado validações da Linha de Transmissão
+05-09-2023 14:19:20 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 14:19:53 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 14:19:57 - Finalizado validações da Linha de Transmissão
+05-09-2023 14:19:57 - Iniciado validações da Subestação
+05-09-2023 14:19:57 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 14:19:57 - Dentro do Territorio Brasileiro? True
+05-09-2023 14:19:57 - Finalizado validações da Subestação
+05-09-2023 14:19:57 - Iniciado validações do Ponto de Referencia
+05-09-2023 14:19:58 - Dentro do Territorio Brasileiro? False
+05-09-2023 14:19:58 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 14:19:58 - Finalizado validações do Ponto de Referencia
+05-09-2023 14:19:58 - Finalizado validacoes
+05-09-2023 14:19:58 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 14:19:58 - Iniciando Append do Parque
+05-09-2023 15:51:42 - Processamento Iniciado.
+05-09-2023 15:51:42 - Iniciando Append do Complexo
+05-09-2023 15:51:42 - Temp
+05-09-2023 15:51:42 - Finalizando o Append do Complexo
+05-09-2023 15:51:42 - ID de Complexo: 23
+05-09-2023 15:51:47 - Iniciado montagem dos objetos.
+05-09-2023 15:51:47 - Criando geometria da Usina Termoelétricas
+05-09-2023 15:51:49 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 15:51:49 - Criando geometria da Linha de Transmissão
+05-09-2023 15:51:51 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 15:51:51 - Criando geometria da Subestação
+05-09-2023 15:51:53 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 15:51:53 - Criando geometria do Ponto de Referencia
+05-09-2023 15:51:55 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 15:51:55 - Finalizado montagem dos objetos.
+05-09-2023 15:51:55 - Iniciado validacoes.
+05-09-2023 15:51:55 - Iniciado validações da Usina Termoelétricas
+05-09-2023 15:51:55 - Dentro do Territorio Brasileiro? True
+05-09-2023 15:51:55 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 15:51:57 - Parques sobrepostos menos que 50cm? True
+05-09-2023 15:51:57 - Parques sobrepostos mais que 50cm? True
+05-09-2023 15:51:57 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 15:51:57 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 15:52:02 - Finalizado validações da Usina Termoelétricas
+05-09-2023 15:52:02 - Iniciado validações da Linha de Transmissão
+05-09-2023 15:52:02 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 15:52:34 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 15:52:38 - Finalizado validações da Linha de Transmissão
+05-09-2023 15:52:38 - Iniciado validações da Subestação
+05-09-2023 15:52:38 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 15:52:38 - Dentro do Territorio Brasileiro? True
+05-09-2023 15:52:38 - Finalizado validações da Subestação
+05-09-2023 15:52:38 - Iniciado validações do Ponto de Referencia
+05-09-2023 15:52:39 - Dentro do Territorio Brasileiro? False
+05-09-2023 15:52:39 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 15:52:39 - Finalizado validações do Ponto de Referencia
+05-09-2023 15:52:39 - Finalizado validacoes
+05-09-2023 15:52:39 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 16:03:57 - Iniciando Append do Parque
+05-09-2023 16:45:16 - Processamento Iniciado.
+05-09-2023 16:45:16 - Iniciando Append do Complexo
+05-09-2023 16:45:16 - Temp
+05-09-2023 16:45:17 - Finalizando o Append do Complexo
+05-09-2023 16:45:17 - ID de Complexo: 24
+05-09-2023 16:45:21 - Iniciado montagem dos objetos.
+05-09-2023 16:45:21 - Criando geometria da Usina Termoelétricas
+05-09-2023 16:45:23 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 16:45:23 - Criando geometria da Linha de Transmissão
+05-09-2023 16:45:25 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 16:45:25 - Criando geometria da Subestação
+05-09-2023 16:45:27 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 16:45:27 - Criando geometria do Ponto de Referencia
+05-09-2023 16:45:28 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 16:45:28 - Finalizado montagem dos objetos.
+05-09-2023 16:45:28 - Iniciado validacoes.
+05-09-2023 16:45:28 - Iniciado validações da Usina Termoelétricas
+05-09-2023 16:45:29 - Dentro do Territorio Brasileiro? True
+05-09-2023 16:45:29 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 16:45:31 - Parques sobrepostos menos que 50cm? True
+05-09-2023 16:45:31 - Parques sobrepostos mais que 50cm? True
+05-09-2023 16:45:31 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 16:45:31 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 16:45:35 - Finalizado validações da Usina Termoelétricas
+05-09-2023 16:45:35 - Iniciado validações da Linha de Transmissão
+05-09-2023 16:45:35 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 16:46:07 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 16:46:11 - Finalizado validações da Linha de Transmissão
+05-09-2023 16:46:11 - Iniciado validações da Subestação
+05-09-2023 16:46:11 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 16:46:11 - Dentro do Territorio Brasileiro? True
+05-09-2023 16:46:11 - Finalizado validações da Subestação
+05-09-2023 16:46:11 - Iniciado validações do Ponto de Referencia
+05-09-2023 16:46:12 - Dentro do Territorio Brasileiro? False
+05-09-2023 16:46:12 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 16:46:12 - Finalizado validações do Ponto de Referencia
+05-09-2023 16:46:12 - Finalizado validacoes
+05-09-2023 16:46:12 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 16:46:16 - Iniciando Append do Parque
+05-09-2023 16:58:45 - Campo Vazio: Ceg
+05-09-2023 16:58:45 - Processamento Iniciado.
+05-09-2023 16:58:45 - Iniciando Append do Complexo
+05-09-2023 16:58:46 - Temp
+05-09-2023 16:58:46 - Finalizando o Append do Complexo
+05-09-2023 16:58:46 - ID de Complexo: 25
+05-09-2023 16:58:49 - Iniciado montagem dos objetos.
+05-09-2023 16:58:49 - Criando geometria da Usina Termoelétricas
+05-09-2023 16:58:52 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 16:58:52 - Criando geometria da Linha de Transmissão
+05-09-2023 16:58:54 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 16:58:54 - Criando geometria da Subestação
+05-09-2023 16:58:56 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 16:58:56 - Criando geometria do Ponto de Referencia
+05-09-2023 16:58:57 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 16:58:57 - Finalizado montagem dos objetos.
+05-09-2023 16:58:57 - Iniciado validacoes.
+05-09-2023 16:58:57 - Iniciado validações da Usina Termoelétricas
+05-09-2023 16:58:58 - Dentro do Territorio Brasileiro? True
+05-09-2023 16:58:58 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 16:59:00 - Parques sobrepostos menos que 50cm? False
+05-09-2023 16:59:00 - Parques sobrepostos mais que 50cm? False
+05-09-2023 16:59:00 - Nome dos parques sobrepostos: Sem sobreposição
+05-09-2023 16:59:00 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 16:59:05 - Finalizado validações da Usina Termoelétricas
+05-09-2023 16:59:05 - Iniciado validações da Linha de Transmissão
+05-09-2023 16:59:05 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 16:59:36 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 16:59:39 - Finalizado validações da Linha de Transmissão
+05-09-2023 16:59:39 - Iniciado validações da Subestação
+05-09-2023 16:59:39 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 16:59:40 - Dentro do Territorio Brasileiro? True
+05-09-2023 16:59:40 - Finalizado validações da Subestação
+05-09-2023 16:59:40 - Iniciado validações do Ponto de Referencia
+05-09-2023 16:59:40 - Dentro do Territorio Brasileiro? False
+05-09-2023 16:59:40 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 16:59:40 - Finalizado validações do Ponto de Referencia
+05-09-2023 16:59:40 - Finalizado validacoes
+05-09-2023 16:59:40 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 16:59:47 - Iniciando Append do Parque
+05-09-2023 17:05:39 - Campo Vazio: Ceg
+05-09-2023 17:05:39 - Processamento Iniciado.
+05-09-2023 17:05:39 - Iniciando Append do Complexo
+05-09-2023 17:05:39 - Temp
+05-09-2023 17:05:40 - Finalizando o Append do Complexo
+05-09-2023 17:05:40 - ID de Complexo: 26
+05-09-2023 17:05:42 - Iniciado montagem dos objetos.
+05-09-2023 17:05:42 - Criando geometria da Usina Termoelétricas
+05-09-2023 17:05:45 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 17:05:45 - Criando geometria da Linha de Transmissão
+05-09-2023 17:05:46 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 17:05:46 - Criando geometria da Subestação
+05-09-2023 17:05:48 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 17:05:48 - Criando geometria do Ponto de Referencia
+05-09-2023 17:05:50 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 17:05:50 - Finalizado montagem dos objetos.
+05-09-2023 17:05:50 - Iniciado validacoes.
+05-09-2023 17:05:50 - Iniciado validações da Usina Termoelétricas
+05-09-2023 17:05:50 - Dentro do Territorio Brasileiro? True
+05-09-2023 17:05:50 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 17:05:52 - Parques sobrepostos menos que 50cm? False
+05-09-2023 17:05:52 - Parques sobrepostos mais que 50cm? False
+05-09-2023 17:05:52 - Nome dos parques sobrepostos: Sem sobreposição
+05-09-2023 17:05:52 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 17:05:56 - Finalizado validações da Usina Termoelétricas
+05-09-2023 17:05:56 - Iniciado validações da Linha de Transmissão
+05-09-2023 17:05:56 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 17:06:27 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 17:06:31 - Finalizado validações da Linha de Transmissão
+05-09-2023 17:06:31 - Iniciado validações da Subestação
+05-09-2023 17:06:31 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 17:06:31 - Dentro do Territorio Brasileiro? True
+05-09-2023 17:06:31 - Finalizado validações da Subestação
+05-09-2023 17:06:31 - Iniciado validações do Ponto de Referencia
+05-09-2023 17:06:32 - Dentro do Territorio Brasileiro? False
+05-09-2023 17:06:32 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 17:06:32 - Finalizado validações do Ponto de Referencia
+05-09-2023 17:06:32 - Finalizado validacoes
+05-09-2023 17:06:32 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 17:06:37 - Iniciando Append do Parque
+05-09-2023 17:07:13 - Finalizando o Append do Parque
+05-09-2023 17:09:28 - Processamento Iniciado.
+05-09-2023 17:09:28 - Iniciando Append do Complexo
+05-09-2023 17:09:28 - Temp
+05-09-2023 17:09:28 - Finalizando o Append do Complexo
+05-09-2023 17:09:28 - ID de Complexo: 27
+05-09-2023 17:09:31 - Iniciado montagem dos objetos.
+05-09-2023 17:09:31 - Criando geometria da Usina Termoelétricas
+05-09-2023 17:09:33 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 17:09:33 - Criando geometria da Linha de Transmissão
+05-09-2023 17:09:35 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 17:09:35 - Criando geometria da Subestação
+05-09-2023 17:09:37 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 17:09:37 - Criando geometria do Ponto de Referencia
+05-09-2023 17:09:38 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 17:09:38 - Finalizado montagem dos objetos.
+05-09-2023 17:09:38 - Iniciado validacoes.
+05-09-2023 17:09:38 - Iniciado validações da Usina Termoelétricas
+05-09-2023 17:09:39 - Dentro do Territorio Brasileiro? True
+05-09-2023 17:09:39 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 17:09:41 - Parques sobrepostos menos que 50cm? True
+05-09-2023 17:09:41 - Parques sobrepostos mais que 50cm? True
+05-09-2023 17:09:41 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 17:09:41 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 17:09:45 - Finalizado validações da Usina Termoelétricas
+05-09-2023 17:09:45 - Iniciado validações da Linha de Transmissão
+05-09-2023 17:09:45 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 17:10:17 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 17:10:20 - Finalizado validações da Linha de Transmissão
+05-09-2023 17:10:20 - Iniciado validações da Subestação
+05-09-2023 17:10:20 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 17:10:21 - Dentro do Territorio Brasileiro? True
+05-09-2023 17:10:21 - Finalizado validações da Subestação
+05-09-2023 17:10:21 - Iniciado validações do Ponto de Referencia
+05-09-2023 17:10:21 - Dentro do Territorio Brasileiro? False
+05-09-2023 17:10:21 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 17:10:21 - Finalizado validações do Ponto de Referencia
+05-09-2023 17:10:21 - Finalizado validacoes
+05-09-2023 17:10:21 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 17:10:26 - Iniciando Append do Parque
+05-09-2023 21:28:46 - Processamento Iniciado.
+05-09-2023 21:28:46 - Iniciando Append do Complexo
+05-09-2023 21:28:46 - Temp
+05-09-2023 21:28:46 - Finalizando o Append do Complexo
+05-09-2023 21:28:46 - ID de Complexo: 28
+05-09-2023 21:28:49 - Iniciado montagem dos objetos.
+05-09-2023 21:28:49 - Criando geometria da Usina Termoelétricas
+05-09-2023 21:28:52 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 21:28:52 - Criando geometria da Linha de Transmissão
+05-09-2023 21:28:54 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 21:28:54 - Criando geometria da Subestação
+05-09-2023 21:28:55 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 21:28:55 - Criando geometria do Ponto de Referencia
+05-09-2023 21:28:57 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 21:28:57 - Finalizado montagem dos objetos.
+05-09-2023 21:28:57 - Iniciado validacoes.
+05-09-2023 21:28:57 - Iniciado validações da Usina Termoelétricas
+05-09-2023 21:28:57 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:28:57 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 21:28:59 - Parques sobrepostos menos que 50cm? True
+05-09-2023 21:28:59 - Parques sobrepostos mais que 50cm? True
+05-09-2023 21:28:59 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 21:28:59 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 21:29:04 - Finalizado validações da Usina Termoelétricas
+05-09-2023 21:29:04 - Iniciado validações da Linha de Transmissão
+05-09-2023 21:29:04 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 21:29:33 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 21:29:36 - Finalizado validações da Linha de Transmissão
+05-09-2023 21:29:36 - Iniciado validações da Subestação
+05-09-2023 21:29:36 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 21:29:36 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:29:36 - Finalizado validações da Subestação
+05-09-2023 21:29:36 - Iniciado validações do Ponto de Referencia
+05-09-2023 21:29:36 - Dentro do Territorio Brasileiro? False
+05-09-2023 21:29:36 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 21:29:36 - Finalizado validações do Ponto de Referencia
+05-09-2023 21:29:36 - Finalizado validacoes
+05-09-2023 21:29:36 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 21:32:47 - Iniciando Append do Parque
+05-09-2023 21:44:01 - Processamento Iniciado.
+05-09-2023 21:44:01 - Iniciando Append do Complexo
+05-09-2023 21:44:02 - Temp
+05-09-2023 21:44:02 - Finalizando o Append do Complexo
+05-09-2023 21:44:02 - ID de Complexo: 29
+05-09-2023 21:44:06 - Iniciado montagem dos objetos.
+05-09-2023 21:44:06 - Criando geometria da Usina Termoelétricas
+05-09-2023 21:44:08 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 21:44:08 - Criando geometria da Linha de Transmissão
+05-09-2023 21:44:10 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 21:44:10 - Criando geometria da Subestação
+05-09-2023 21:44:11 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 21:44:11 - Criando geometria do Ponto de Referencia
+05-09-2023 21:44:13 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 21:44:13 - Finalizado montagem dos objetos.
+05-09-2023 21:44:13 - Iniciado validacoes.
+05-09-2023 21:44:13 - Iniciado validações da Usina Termoelétricas
+05-09-2023 21:44:13 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:44:13 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 21:44:15 - Parques sobrepostos menos que 50cm? True
+05-09-2023 21:44:15 - Parques sobrepostos mais que 50cm? True
+05-09-2023 21:44:15 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 21:44:15 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 21:44:20 - Finalizado validações da Usina Termoelétricas
+05-09-2023 21:44:20 - Iniciado validações da Linha de Transmissão
+05-09-2023 21:44:20 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 21:44:49 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 21:44:52 - Finalizado validações da Linha de Transmissão
+05-09-2023 21:44:52 - Iniciado validações da Subestação
+05-09-2023 21:44:52 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 21:44:52 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:44:52 - Finalizado validações da Subestação
+05-09-2023 21:44:52 - Iniciado validações do Ponto de Referencia
+05-09-2023 21:44:53 - Dentro do Territorio Brasileiro? False
+05-09-2023 21:44:53 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 21:44:53 - Finalizado validações do Ponto de Referencia
+05-09-2023 21:44:53 - Finalizado validacoes
+05-09-2023 21:44:53 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 21:45:34 - Iniciando Append do Parque
+05-09-2023 21:51:13 - Processamento Iniciado.
+05-09-2023 21:51:13 - Iniciando Append do Complexo
+05-09-2023 21:51:13 - Temp
+05-09-2023 21:51:13 - Finalizando o Append do Complexo
+05-09-2023 21:51:13 - ID de Complexo: 30
+05-09-2023 21:51:34 - Iniciado montagem dos objetos.
+05-09-2023 21:51:34 - Criando geometria da Usina Termoelétricas
+05-09-2023 21:51:37 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 21:51:37 - Criando geometria da Linha de Transmissão
+05-09-2023 21:51:39 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 21:51:39 - Criando geometria da Subestação
+05-09-2023 21:51:41 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 21:51:41 - Criando geometria do Ponto de Referencia
+05-09-2023 21:51:43 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 21:51:43 - Finalizado montagem dos objetos.
+05-09-2023 21:51:43 - Iniciado validacoes.
+05-09-2023 21:51:43 - Iniciado validações da Usina Termoelétricas
+05-09-2023 21:51:43 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:51:43 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 21:51:46 - Parques sobrepostos menos que 50cm? True
+05-09-2023 21:51:46 - Parques sobrepostos mais que 50cm? True
+05-09-2023 21:51:46 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 21:51:46 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 21:51:51 - Finalizado validações da Usina Termoelétricas
+05-09-2023 21:51:51 - Iniciado validações da Linha de Transmissão
+05-09-2023 21:51:51 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 21:52:27 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 21:52:31 - Finalizado validações da Linha de Transmissão
+05-09-2023 21:52:31 - Iniciado validações da Subestação
+05-09-2023 21:52:31 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 21:52:32 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:52:32 - Finalizado validações da Subestação
+05-09-2023 21:52:32 - Iniciado validações do Ponto de Referencia
+05-09-2023 21:52:32 - Dentro do Territorio Brasileiro? False
+05-09-2023 21:52:32 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 21:52:32 - Finalizado validações do Ponto de Referencia
+05-09-2023 21:52:32 - Finalizado validacoes
+05-09-2023 21:52:32 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 21:52:54 - Iniciando Append do Parque
+05-09-2023 21:57:16 - Campo Vazio: Ceg
+05-09-2023 21:57:16 - Processamento Iniciado.
+05-09-2023 21:57:16 - Iniciando Append do Complexo
+05-09-2023 21:57:16 - Temp
+05-09-2023 21:57:16 - Finalizando o Append do Complexo
+05-09-2023 21:57:16 - ID de Complexo: 31
+05-09-2023 21:57:20 - Iniciado montagem dos objetos.
+05-09-2023 21:57:20 - Criando geometria da Usina Termoelétricas
+05-09-2023 21:57:22 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 21:57:22 - Criando geometria da Linha de Transmissão
+05-09-2023 21:57:24 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 21:57:24 - Criando geometria da Subestação
+05-09-2023 21:57:25 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 21:57:25 - Criando geometria do Ponto de Referencia
+05-09-2023 21:57:27 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 21:57:27 - Finalizado montagem dos objetos.
+05-09-2023 21:57:27 - Iniciado validacoes.
+05-09-2023 21:57:27 - Iniciado validações da Usina Termoelétricas
+05-09-2023 21:57:27 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:57:27 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 21:57:29 - Parques sobrepostos menos que 50cm? False
+05-09-2023 21:57:29 - Parques sobrepostos mais que 50cm? False
+05-09-2023 21:57:29 - Nome dos parques sobrepostos: Sem sobreposição
+05-09-2023 21:57:29 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 21:57:33 - Finalizado validações da Usina Termoelétricas
+05-09-2023 21:57:33 - Iniciado validações da Linha de Transmissão
+05-09-2023 21:57:33 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 21:58:04 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 21:58:07 - Finalizado validações da Linha de Transmissão
+05-09-2023 21:58:07 - Iniciado validações da Subestação
+05-09-2023 21:58:07 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 21:58:08 - Dentro do Territorio Brasileiro? True
+05-09-2023 21:58:08 - Finalizado validações da Subestação
+05-09-2023 21:58:08 - Iniciado validações do Ponto de Referencia
+05-09-2023 21:58:08 - Dentro do Territorio Brasileiro? False
+05-09-2023 21:58:08 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 21:58:08 - Finalizado validações do Ponto de Referencia
+05-09-2023 21:58:08 - Finalizado validacoes
+05-09-2023 21:58:08 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 22:01:23 - Iniciando Append do Parque
+05-09-2023 22:29:56 - Campo Vazio: Ceg
+05-09-2023 22:29:56 - Processamento Iniciado.
+05-09-2023 22:29:56 - Iniciando Append do Complexo
+05-09-2023 22:29:56 - Temp
+05-09-2023 22:29:57 - Finalizando o Append do Complexo
+05-09-2023 22:29:57 - ID de Complexo: 32
+05-09-2023 22:30:09 - Iniciado montagem dos objetos.
+05-09-2023 22:30:09 - Criando geometria da Usina Termoelétricas
+05-09-2023 22:30:12 - ERROR 000258: Output C:\Users\roger.brito\AppData\Local\Temp\scratch\shapefiles\PARQUE_TERMOELETRICAS_0.shp already exists
+Failed to execute (CreateFeatureclass).
+
+05-09-2023 22:30:47 - Processamento Iniciado.
+05-09-2023 22:30:47 - Iniciando Append do Complexo
+05-09-2023 22:30:48 - Temp
+05-09-2023 22:30:48 - Finalizando o Append do Complexo
+05-09-2023 22:30:48 - ID de Complexo: 33
+05-09-2023 22:31:51 - Iniciado montagem dos objetos.
+05-09-2023 22:31:51 - Criando geometria da Usina Termoelétricas
+05-09-2023 22:31:54 - Finalizado processo de criação da geometria da Usina Termoelétricas
+05-09-2023 22:31:54 - Criando geometria da Linha de Transmissão
+05-09-2023 22:31:56 - Finalizado processo de criação da geometria da Linha de Transmissão
+05-09-2023 22:31:56 - Criando geometria da Subestação
+05-09-2023 22:31:58 - Finalizado processo de criação da geometria da Subestação
+05-09-2023 22:31:58 - Criando geometria do Ponto de Referencia
+05-09-2023 22:31:59 - Finalizado processo de criação da geometria do Ponto de Referencia
+05-09-2023 22:31:59 - Finalizado montagem dos objetos.
+05-09-2023 22:32:00 - Iniciado validacoes.
+05-09-2023 22:32:00 - Iniciado validações da Usina Termoelétricas
+05-09-2023 22:32:00 - Dentro do Territorio Brasileiro? True
+05-09-2023 22:32:00 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+05-09-2023 22:32:02 - Parques sobrepostos menos que 50cm? True
+05-09-2023 22:32:02 - Parques sobrepostos mais que 50cm? True
+05-09-2023 22:32:02 - Nome dos parques sobrepostos: UTE_ROGER
+05-09-2023 22:32:02 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+05-09-2023 22:32:07 - Finalizado validações da Usina Termoelétricas
+05-09-2023 22:32:07 - Iniciado validações da Linha de Transmissão
+05-09-2023 22:32:07 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+05-09-2023 22:32:42 - Verificando a sobreposicao entre linhas de transmissao.
+05-09-2023 22:32:46 - Finalizado validações da Linha de Transmissão
+05-09-2023 22:32:46 - Iniciado validações da Subestação
+05-09-2023 22:32:46 - Subestação dentro do Poligono da Usina Termoelétrica? True
+05-09-2023 22:32:47 - Dentro do Territorio Brasileiro? True
+05-09-2023 22:32:47 - Finalizado validações da Subestação
+05-09-2023 22:32:47 - Iniciado validações do Ponto de Referencia
+05-09-2023 22:32:47 - Dentro do Territorio Brasileiro? False
+05-09-2023 22:32:47 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+05-09-2023 22:32:47 - Finalizado validações do Ponto de Referencia
+05-09-2023 22:32:47 - Finalizado validacoes
+05-09-2023 22:32:47 - Append do empreendimento: TESTE RN 161 UTE
+05-09-2023 22:32:52 - Iniciando Append do Parque
+06-09-2023 16:29:10 - Processamento Iniciado.
+06-09-2023 16:29:10 - Iniciando Append do Complexo
+06-09-2023 16:29:10 - Temp
+06-09-2023 16:29:11 - Finalizando o Append do Complexo
+06-09-2023 16:29:11 - ID de Complexo: 34
+06-09-2023 16:29:15 - Iniciado montagem dos objetos.
+06-09-2023 16:29:15 - Criando geometria da Usina Termoelétricas
+06-09-2023 16:29:18 - ERROR 000258: Output C:\Users\roger.brito\AppData\Local\Temp\scratch\shapefiles\PARQUE_TERMOELETRICAS_0.shp already exists
+Failed to execute (CreateFeatureclass).
+
+06-09-2023 16:29:53 - Processamento Iniciado.
+06-09-2023 16:29:53 - Iniciando Append do Complexo
+06-09-2023 16:29:54 - Temp
+06-09-2023 16:29:54 - Finalizando o Append do Complexo
+06-09-2023 16:29:54 - ID de Complexo: 35
+06-09-2023 16:29:57 - Iniciado montagem dos objetos.
+06-09-2023 16:29:57 - Criando geometria da Usina Termoelétricas
+06-09-2023 16:29:59 - Finalizado processo de criação da geometria da Usina Termoelétricas
+06-09-2023 16:29:59 - Criando geometria da Linha de Transmissão
+06-09-2023 16:30:00 - Finalizado processo de criação da geometria da Linha de Transmissão
+06-09-2023 16:30:00 - Criando geometria da Subestação
+06-09-2023 16:30:02 - Finalizado processo de criação da geometria da Subestação
+06-09-2023 16:30:02 - Criando geometria do Ponto de Referencia
+06-09-2023 16:30:04 - Finalizado processo de criação da geometria do Ponto de Referencia
+06-09-2023 16:30:04 - Finalizado montagem dos objetos.
+06-09-2023 16:30:04 - Iniciado validacoes.
+06-09-2023 16:30:04 - Iniciado validações da Usina Termoelétricas
+06-09-2023 16:30:04 - Dentro do Territorio Brasileiro? True
+06-09-2023 16:30:04 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+06-09-2023 16:30:06 - Parques sobrepostos menos que 50cm? True
+06-09-2023 16:30:06 - Parques sobrepostos mais que 50cm? True
+06-09-2023 16:30:06 - Nome dos parques sobrepostos: UTE_ROGER
+06-09-2023 16:30:06 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+06-09-2023 16:30:10 - Finalizado validações da Usina Termoelétricas
+06-09-2023 16:30:10 - Iniciado validações da Linha de Transmissão
+06-09-2023 16:30:10 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+06-09-2023 16:30:39 - Verificando a sobreposicao entre linhas de transmissao.
+06-09-2023 16:30:42 - Finalizado validações da Linha de Transmissão
+06-09-2023 16:30:42 - Iniciado validações da Subestação
+06-09-2023 16:30:42 - Subestação dentro do Poligono da Usina Termoelétrica? True
+06-09-2023 16:30:42 - Dentro do Territorio Brasileiro? True
+06-09-2023 16:30:42 - Finalizado validações da Subestação
+06-09-2023 16:30:42 - Iniciado validações do Ponto de Referencia
+06-09-2023 16:30:43 - Dentro do Territorio Brasileiro? False
+06-09-2023 16:30:43 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+06-09-2023 16:30:43 - Finalizado validações do Ponto de Referencia
+06-09-2023 16:30:43 - Finalizado validacoes
+06-09-2023 16:30:43 - Append do empreendimento: TESTE RN 161 UTE
+06-09-2023 16:31:18 - Iniciando Append do Parque
+06-09-2023 16:31:40 - Finalizando o Append do Parque
+06-09-2023 16:31:40 - *********** ------------------------ ***********
+
+06-09-2023 16:31:45 - Montando saida
+06-09-2023 16:31:45 - Finalizado saida
+06-09-2023 16:31:45 - Compactando relatorios
+06-09-2023 16:31:45 - Arquivo compactado
+06-09-2023 16:31:45 - Processamento Finalizado.
+06-09-2023 17:07:07 - Processamento Iniciado.
+06-09-2023 17:07:07 - Iniciando Append do Complexo
+06-09-2023 17:07:07 - Temp
+06-09-2023 17:07:07 - Finalizando o Append do Complexo
+06-09-2023 17:07:07 - ID de Complexo: 36
+06-09-2023 17:07:16 - Iniciado montagem dos objetos.
+06-09-2023 17:07:16 - Criando geometria da Usina Termoelétricas
+06-09-2023 17:07:18 - Finalizado processo de criação da geometria da Usina Termoelétricas
+06-09-2023 17:07:18 - Criando geometria da Linha de Transmissão
+06-09-2023 17:07:20 - Finalizado processo de criação da geometria da Linha de Transmissão
+06-09-2023 17:07:20 - Criando geometria da Subestação
+06-09-2023 17:07:21 - Finalizado processo de criação da geometria da Subestação
+06-09-2023 17:07:21 - Criando geometria do Ponto de Referencia
+06-09-2023 17:07:23 - Finalizado processo de criação da geometria do Ponto de Referencia
+06-09-2023 17:07:23 - Finalizado montagem dos objetos.
+06-09-2023 17:07:23 - Iniciado validacoes.
+06-09-2023 17:07:23 - Iniciado validações da Usina Termoelétricas
+06-09-2023 17:07:24 - Dentro do Territorio Brasileiro? True
+06-09-2023 17:07:24 - Verificando se poligono da usina termoelétricas sobrepoem algum outro poligono da usina
+06-09-2023 17:07:25 - Parques sobrepostos menos que 50cm? True
+06-09-2023 17:07:25 - Parques sobrepostos mais que 50cm? True
+06-09-2023 17:07:25 - Nome dos parques sobrepostos: UTE_ROGER
+06-09-2023 17:07:25 - Verificando se o parque esta dentro da margem de seguranca das linhas de transmissao
+06-09-2023 17:07:30 - Finalizado validações da Usina Termoelétricas
+06-09-2023 17:07:30 - Iniciado validações da Linha de Transmissão
+06-09-2023 17:07:30 - Verificando se as coordenadas da linha de transmissao formam uma geometria topologicamente consistente.
+06-09-2023 17:08:00 - Verificando a sobreposicao entre linhas de transmissao.
+06-09-2023 17:08:04 - Finalizado validações da Linha de Transmissão
+06-09-2023 17:08:04 - Iniciado validações da Subestação
+06-09-2023 17:08:04 - Subestação dentro do Poligono da Usina Termoelétrica? True
+06-09-2023 17:08:04 - Dentro do Territorio Brasileiro? True
+06-09-2023 17:08:04 - Finalizado validações da Subestação
+06-09-2023 17:08:04 - Iniciado validações do Ponto de Referencia
+06-09-2023 17:08:04 - Dentro do Territorio Brasileiro? False
+06-09-2023 17:08:04 - Ponto de Referencia dentro do Poligono da Usina Termoeletrica? True
+06-09-2023 17:08:04 - Finalizado validações do Ponto de Referencia
+06-09-2023 17:08:04 - Finalizado validacoes
+06-09-2023 17:08:04 - Append do empreendimento: TESTE RN 161 UTE
+06-09-2023 17:08:40 - Iniciando Append do Parque

@@ -1,0 +1,10 @@
+{"displayFieldName":"","fieldAliases":{"OBJECTID":"OBJECTID","Shape_Length":"Shape_Length","Shape_Area":"Shape_Area"},"geometryType":"esriGeometryPolygon","spatialReference":{"wkid":4674,"latestWkid":4674},"fields":[{"name":"OBJECTID","type":"esriFieldTypeOID","alias":"OBJECTID"},{"name":"Shape_Length","type":"esriFieldTypeDouble","alias":"Shape_Length"},{"name":"Shape_Area","type":"esriFieldTypeDouble","alias":"Shape_Area"}],"features":[{"attributes":{"OBJECTID":1,"Shape_Length":1.0154811849844114,"Shape_Area":0.056618866916553851},"geometry":{
+	"rings":[[[-47.154583640999931,-5.0025681769999437],[-47.082736335999982,-4.8217524599999706]]]}}]}
+	
+	
+"Poligono":[{"Long":-47.082736335999982,"Lat":-4.8217524599999706 },{"Long":-47.045523236999941,"Lat":-4.6795078939999257},{"Long":-46.859169474999931,"Lat":-4.7198728089999804},
+{"Long":-46.891553588999955,"Lat":-4.8188601699999367},{"Long":-46.943201635999969,"Lat":-4.9767277829999443}
+,{"Long":-47.154583640999931,"Lat":-5.0025681769999437}
+,{"Long":-47.082736335999982,"Lat":-4.8217524599999706}
+
+]
